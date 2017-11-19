@@ -5,3 +5,6 @@ The purpose of this repository is providing a collecton area for perpetual creat
 The project focuses on usage of web annotations on web and mobile applications. Plesase visit
 [wiki pages](https://github.com/bulentrahimkazanci/Fall2017Swe574-Zenith/wiki)
 of repository for further information ranging from requirements to architectural design.
+
+### API: https://github.com/SWEZenith/Living-History-API
+### CLIENT: https://github.com/SWEZenith/Living-History-Client
